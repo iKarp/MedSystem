@@ -1,84 +1,0 @@
-.head {
-	height:10em;
-}
-.content {
-}
-#main {	margin: 0px auto;
-	padding: 0px;
-	width:230px;
-	
-	/*
-	 * height:220px;
-	border:1px solid #C0C0C0;
-	
-	font-family:Georgia,Tahoma,Arial;
-	font-size:11px;
-	*/
-	
-	font-size:14px;
-    font-family: Arial, Tahoma;
-}
-.title {	height: 22px;
-	
-}
-.auth-left {	float:left;
-	width: 70px;
-	height:2em;
-	margin-top:5px;
-	padding-left:5px;
-	text-align: right;
-}
-.auth-center {	float:right;	height:2em;
-	width:140px;
-	margin-top:5px;
-}
-.auth-center input {	clear:both;
-	height:1.2em;
-	width:120px;
-	
-}
-.auth-botton {	width:80px;
-	height:32px;
-	
-
-
-}
-.auth-error {
-	margin: 0 auto;
-	padding:3px 0 3px;
-	width:230px;
-	
-	text-align:right;
-	/*
-	 * border-left:1px solid #C0C0C0;
-	border-bottom:1px solid #C0C0C0;
-	border-right:1px solid #C0C0C0;
-	font-family:Tahoma,Georgia,Arial;
-	*/
-    font-family: Arial, Tahoma;
-	font-size:14px;
-	color:#FF4646;
-}
-.copyright {	margin: 0 auto;
-	padding:3px 0 3px;
-	width:230px;
-	
-	text-align:right;
-	/*
-	 * border-left:1px solid #C0C0C0;
-	border-bottom:1px solid #C0C0C0;
-	border-right:1px solid #C0C0C0;
-	font-family:Tahoma,Georgia,Arial;
-	*/
-    font-family: Arial, Tahoma;
-	font-size:10px;
-}
-.footer {	height:10%;
-}
-
-div.alrearyin {
-	text-align: center;
-	width: 100%;
-}
-
-
