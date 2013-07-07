@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/VSE/!svn/ver/760/CORE/templates
+END
+core_no_auth.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/VSE/!svn/ver/1/CORE/templates/core_no_auth.tpl
+END
+_header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/VSE/!svn/ver/351/CORE/templates/_header.tpl
+END
+core_arm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/VSE/!svn/ver/735/CORE/templates/core_arm.tpl
+END
+core_auth.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/VSE/!svn/ver/578/CORE/templates/core_auth.tpl
+END
+_footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/VSE/!svn/ver/760/CORE/templates/_footer.tpl
+END

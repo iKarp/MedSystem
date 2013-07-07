@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/VSE/!svn/ver/835/CORE/module/doctor
+END
+VSEDoctor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/VSE/!svn/ver/835/CORE/module/doctor/VSEDoctor.class.php
+END
+VSEDoctorSpec.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/VSE/!svn/ver/1/CORE/module/doctor/VSEDoctorSpec.php
+END
+moduleload.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/VSE/!svn/ver/1/CORE/module/doctor/moduleload.php
+END

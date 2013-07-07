@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/VSE/!svn/ver/680/CORE/main/pforms/cash-memo
+END
+cash-memo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/VSE/!svn/ver/664/CORE/main/pforms/cash-memo/cash-memo.tpl
+END
+print_cash-memo.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/VSE/!svn/ver/680/CORE/main/pforms/cash-memo/print_cash-memo.php
+END

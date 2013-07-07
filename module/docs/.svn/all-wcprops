@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/VSE/!svn/ver/549/CORE/module/docs
+END
+VSEDocPerson.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/VSE/!svn/ver/1/CORE/module/docs/VSEDocPerson.class.php
+END
+VSEOrganizationAgreement.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/VSE/!svn/ver/1/CORE/module/docs/VSEOrganizationAgreement.class.php
+END
+VSEDocsOMSPolis.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/VSE/!svn/ver/509/CORE/module/docs/VSEDocsOMSPolis.class.php
+END
+VSEDocsPerson.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/VSE/!svn/ver/78/CORE/module/docs/VSEDocsPerson.class.php
+END
+VSEDocsDMSPolis.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/VSE/!svn/ver/360/CORE/module/docs/VSEDocsDMSPolis.class.php
+END
+VSEOmsOrganization.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/VSE/!svn/ver/78/CORE/module/docs/VSEOmsOrganization.class.php
+END
+moduleload.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/VSE/!svn/ver/1/CORE/module/docs/moduleload.php
+END
+VSEDocsPassport.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/VSE/!svn/ver/549/CORE/module/docs/VSEDocsPassport.class.php
+END
+VSEOrganization.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/VSE/!svn/ver/78/CORE/module/docs/VSEOrganization.class.php
+END

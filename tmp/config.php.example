@@ -1,0 +1,49 @@
+<?
+//rusizramed configuration file
+
+define (CORE_ROOT,$_SERVER['DOCUMENT_ROOT']."/");
+define (CORE_INCLUDE_DIR,CORE_ROOT."core/");
+define (CSS_ROOT,"/static/css/");
+define (JS_ROOT,"/static/javascript/");
+
+define (VSE_MSG_NOTIFY,1);
+define (VSE_MSG_WARNING,2);
+define (VSE_MSG_ERR,3);
+define (VSE_MSG_DENY,'Недостаточно прав');
+
+require_once (CORE_INCLUDE_DIR."VSECore.class.php");
+require_once (CORE_INCLUDE_DIR."VSEDB.class.php");
+require_once (CORE_INCLUDE_DIR."VSESession.interface.php");
+require_once (CORE_INCLUDE_DIR."VSESession.class.php");
+require_once (CORE_INCLUDE_DIR."VSEEvents.class.php");
+require_once (CORE_INCLUDE_DIR."VSEOutput.class.php");
+require_once (CORE_INCLUDE_DIR."VSECurrentUser.class.php");
+require_once (CORE_INCLUDE_DIR."VSEPerson.class.php");
+require_once (CORE_INCLUDE_DIR."VSEAddress.class.php");
+
+
+$config['dbhost'] = 'localhost';
+$config['dbusername'] = 'vsep';
+$config['dbpassword'] = 'vsep';
+$config['dbname'] = 'VSE_RIM';
+$config['db_charset'] = 'cp1251';
+
+// for log file (use then  addevent method called (VSEEvent clas))
+$config['logfile'] = CORE_ROOT."tmp/log.txt";
+
+// init
+$db = new VSEDB();
+$dbw = new VSEDB();
+$VSECore = new VSECore();
+
+//assign log filename
+VSEevents::$filename = $config['logfile'];
+
+
+/*
+ *
+ * 
+ */
+
+
+?>

@@ -1,0 +1,1 @@
+You are not authorize to access <b>{$module_name}</b> module!

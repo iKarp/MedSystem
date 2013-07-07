@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/VSE/!svn/ver/760/CORE/main/templates
+END
+main.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/VSE/!svn/ver/664/CORE/main/templates/main.tpl
+END
+table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/VSE/!svn/ver/664/CORE/main/templates/table.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/VSE/!svn/ver/733/CORE/main/templates/header.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/VSE/!svn/ver/760/CORE/main/templates/footer.tpl
+END
